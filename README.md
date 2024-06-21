@@ -49,3 +49,5 @@ Step 7: Test Your Emulation
 Test your device to make sure it's working correctly and emulating a graphics card.
 You can use tools like lspci or pciutils to verify that your device is recognized as a graphics card.
 That's it! If you follow these steps, you should be able to create a custom firmware for your Captain DMA device that emulates a graphics card using pcileech. Remember to be careful and patient, and don't be afraid to ask for help if you need it.
+
+Discord: https://discord.gg/EBSSauYjN6
